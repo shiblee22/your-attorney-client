@@ -1,0 +1,12 @@
+#header-top {
+    background-image: url("../../../images/top-view-frame-with-contract-wooden-judge-gavel1.jpg");
+    background-size: cover;
+    background-position: top;
+    min-height: 350px;
+}
+.color-brand {
+    color: #c79846
+}
+.color-background {
+    color: #506ba3
+}
